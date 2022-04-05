@@ -1,9 +1,9 @@
-## welcom to jimmy's website and my favorate movie charater
+## wellcome to jimmy's website and my favorate movie charater
 
 you can find my secrete on this website.
 you aiso can find my favorate movie charactor here.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+my favorate movie is lalaland , batman , doctorstrange ,  
 
 ### batman
 
