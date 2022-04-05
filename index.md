@@ -1,6 +1,7 @@
 ## welcom to jimmy's website and my favorate movie charater
 
-You can use the [editor on GitHub](https://github.com/gummybearisyummy/mywaxssit/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+you can find my secrete on this website.
+you aiso can find my favorate movie charactor here.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
