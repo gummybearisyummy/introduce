@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## welcom to jimmy's website and my favorate movie charater
 
 You can use the [editor on GitHub](https://github.com/gummybearisyummy/mywaxssit/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
