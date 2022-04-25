@@ -1,4 +1,4 @@
-## wellcome to jimmy's website and my favorate movie charater
+## wellcome
 
 you can find my secrete on this website.
 you aiso can find my favorate movie charactor here.
