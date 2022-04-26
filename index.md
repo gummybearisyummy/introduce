@@ -1,34 +1,18 @@
 # 多元表現綜整心得
-## 科學領域的探索  
+## 一、科學領域的探索  
 ### （一）疫苗製做的介紹
 高二時遇到疫情，剛好探究與實作教到關於疫苗的課程，於是我寫作了一個介紹關於嬌生疫苗的報告。透過報告我了解疫苗的製作是利用改良的腺病毒當載體，去攜帶冠狀病毒的棘蛋白。這讓我生醫領域更有興趣。
 
 ### （二）生化鑑定的實驗
 高三時，我想了解如何製作一份有深度的專業報告，於製作一份關於血液檢測的實驗。在實驗的過程中，學到可以利用紅血球上面的抗原去和抗體結合以顯現血液的存在。這讓我對生化領域更深入了解，也讓我知道做一份報告該有的架構。
 
-##habit
-
-1. i used to watch movie in my lisuretime 
-2. i didn't choose what type of movie , i watch all type of movie without historical one.
-3. 
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gummybearisyummy/mywaxssit/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## 二、常見疾病的認知
+### （一）認識睡眠呼吸中止症
+高三時確定要選擇生物領域的科系，於是從人類的疾病去做探索。完成這份報告，使我了解到睡眠呼吸中止症的主因是體重過重、扁桃腺或懸雍垂肥大與舌後根塌陷。這份報告讓我對於人體疾病有更深入的了解。
+### （二）過敏性鼻炎的原因與改善方法
+因為在生物課提及免疫的課題，於是藉這份報告去研究該疾病。原來過敏原要第二次進入身體才會反應，以及改善方法有遠離過敏原、佩戴口罩、抗組織胺藥物與減敏治療。這讓我對醫療工作更有興趣。
+## 三、程式能力的建立
+### （一）C++ 程式設計
+高二時，依循最近發展的趨勢，我參加了補習班的程式語言的課程，打算一窺程式語言的奧秘。學習過程中，解決一道又一道的問題，培養我抽象思考與邏輯推理的能力，也使我對程式設計領域有初步的認知。課後，我還去參加 APCS 考試，自我檢測學習成果。
+### （二）程式的應用
+高三下考完學測後有學一些程式應用，將先前習得的程式能力推廣，補習班的老師教我們利用程式去完成一些實際的專案，像是利用 Github Pages 架設網站，理解網頁的組成架構，或是利用網路爬蟲完成重複且簡單的操作，提升搜集資訊的效率。
